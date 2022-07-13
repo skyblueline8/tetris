@@ -53,11 +53,11 @@ def get_python_cmd():
 def start():
     ## default value
     GAME_LEVEL = 1
-    GAME_TIME = 180
+    GAME_TIME = 18
     IS_MODE = "default"
     IS_SAMPLE_CONTROLL = "n"
     INPUT_RANDOM_SEED = -1
-    DROP_INTERVAL = 10     # drop interval
+    DROP_INTERVAL = 1000   # drop interval
     RESULT_LOG_JSON = "result.json"
     USER_NAME = "window_sample"
     SHAPE_LIST_MAX = 6
