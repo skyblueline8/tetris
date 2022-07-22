@@ -75,7 +75,7 @@ class Game_Manager(QMainWindow):
         self.game_time = -1
         self.block_index = 0
         self.mode = "default"
-        self.drop_interval = 1000
+        self.drop_interval = 10
         self.random_seed = time.time() * 10000000 # 0
         self.obstacle_height = 0
         self.obstacle_probability = 0
