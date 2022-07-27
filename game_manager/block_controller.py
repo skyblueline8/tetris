@@ -233,4 +233,4 @@ class Block_Controller(object):
         return score
 
 
-BLOCK_CONTROLLER_SAMPLE = Block_Controller()
+BLOCK_CONTROLLER = Block_Controller()
