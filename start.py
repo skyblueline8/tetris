@@ -53,7 +53,7 @@ def get_python_cmd():
 def start():
     ## default value
     GAME_LEVEL = 1
-    GAME_TIME = 18
+    GAME_TIME = 180
     IS_MODE = "default"
     IS_SAMPLE_CONTROLL = "n"
     INPUT_RANDOM_SEED = -1
