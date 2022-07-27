@@ -234,9 +234,3 @@ class Block_Controller(object):
 
 
 BLOCK_CONTROLLER_SAMPLE = Block_Controller()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
